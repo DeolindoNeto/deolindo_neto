@@ -237,11 +237,12 @@ body {
 .highlight { border-top: 5px solid var(--primary); }
 
 .widget {
-    background: var(--white);
+    background: #192335;
     padding: 20px;
     border-radius: 12px;
     box-shadow: var(--shadow);
     margin-bottom: 25px;
+    color: white;
 }
 
 .widget h3 { font-size: 1.1rem; margin-bottom: 15px; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; }
